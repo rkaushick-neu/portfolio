@@ -22,7 +22,7 @@
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=CKOrAf_WpLw
 " target="_blank"><img src="http://img.youtube.com/vi/CKOrAf_WpLw/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+alt="Data Science Project Presentation" width="400" height="300" border="3" /></a>
 
 ### Data Science Project: Classifying Whether a Near Earth Object (NEO) Is Potentially Hazardous
 - Benchmarked various supervised learning appraoches using decision tree-based & neighborhood-based models.
