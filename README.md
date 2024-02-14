@@ -3,7 +3,7 @@
 
 ## Education
 ### M.S., Information Systems (_Sep '23 to May '25_)
-#### Northeastern University, Toronto, ON 
+#### Northeastern University, Toronto, ON; _GPA: 4.0_
 - Relevant courses: Data Science Engineering Tools & Methods; Advanced Data Science Architecture; Data Management & Database Design.
 - Received an honorary mention at the Walmart Hackathon for effective story telling with data.
 
@@ -38,6 +38,20 @@ Disease using Deep Neural Nets on neuromelanin sensitive MRI’](https://www.sci
 
 ## Work Experience
 ### Oracle Apps-Tech Consultant (_Jul '19 to Aug '23_)
-#### Hitachi Vantara, Hyderabad, India 
+#### Hitachi Vantara, Hyderabad, India
+- Collaborated with functional consultants to gather requirements, design & develop 15+ Oracle BIP Reports.
+- Executed data conversion & migration from Oracle E-Business Suite to Oracle Cloud with success rate > 80%.
+- Analyzed, resolved, & articulated findings for 500+ customer tickets while strongly adhering to the SLA & KPIs.
+- Developed, tested, deployed & documented 10+ changes into production on Software AG - My webMethods.
+- Received the Hitachi Hi-Life Award in recognition of my contributions to company initiatives of data migration.
+
+![Hitachi Hi-Life Award](/assets/img/Hitachi_HiLife_Award.png)
+
+![Hitachi Service Anniversary](/assets/img/Hitachi_Service_Anniversary.png)
+
 ### Software Development Engineer Intern (_Jan '18 to Jun '18_)
 #### Veritas Technologies LLC, Pune, India 
+- Worked on an end-to-end software engineering POC project to scan, classify, and mask confidential PII data.
+- Designed modular Python code, RESTful APIs in flask, responsive user interface with AngularJS, and deployed the app with Dockers.
+- Improved masking speed of 500k records from 16 hours to 1 hour using Oracle Database Indexes & Threading in Python.
+- Demonstrated strong communication skills & presented the solution to the senior manager & developers.
