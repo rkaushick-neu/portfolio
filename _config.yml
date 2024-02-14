@@ -1,5 +1,5 @@
 title: Rish (Rishabh) Kaushick
-# logo: /relative/path/to/image
+logo: /assets/img/display_image.jpg
 # description: text below image
-show_downloads: true
+# show_downloads: true
 theme: jekyll-theme-minimal
