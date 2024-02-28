@@ -13,7 +13,16 @@
 - Extra curriculars: Head of Editorial Board for Annual Tech Fest - Techela in 2017, & Co-Head of Operations, Techela in 2016.
 
 ## Academic Projects
-### Web Scraping Project from Cars & Bids
+### Forecasting Apple Stock using Classical Machine Learning & Deep Learning Approaches
+- Worked on a regression problem with a time-series dataset of the S&P 500 stocks.
+- Compared different classical models like Random Forest & XGBoost Regressors along with deep learning Long-Term-Short-Term (LSTM) Recurrant Neural Networks.
+- Used metrics such as Root Mean Squared Error (RMSE) and the R Squared score to evaluate each model.
+
+![Stock Forecasting EDA](/assets/img/Stock_Forecasting_EDA.png)
+![Stock Forecasting Model Visualization](/assets/img/Stock_Forecasting_Result.png)
+![Stock Forecasting Model Evaluation Metrics](/assets/img/Stocks_Model_Evaluation.png)
+
+### [Web Scraping Project from Cars & Bids](https://github.com/rkaushick-neu/web-scraping-cars/tree/main)
 - Extracted 18 features for 107 cars from [Cars & Bids website](https://carsandbids.com/) like Make, Model, Mileage, Highest Bid Price etc.
 - Used prior HTML knowledge along with logical & problem solving skills in Python and Beautiful Soup for extracting key information.
 
