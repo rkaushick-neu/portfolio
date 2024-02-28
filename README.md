@@ -2,7 +2,7 @@
 #### Technical Skills: Python, SQL, PL/SQL, Java
 
 ## Education
-### M.S., Information Systems (_Sep '23 to May '25_)
+### M.S., Information Systems (_Sep '23 to Apr '25_)
 #### Northeastern University, Toronto, ON; _GPA: 4.0_
 - Relevant courses: Data Science Engineering Tools & Methods; Advanced Data Science Architecture; Data Management & Database Design.
 - Received an honorary mention at the Walmart Hackathon for effective story telling with data.
@@ -13,6 +13,13 @@
 - Extra curriculars: Head of Editorial Board for Annual Tech Fest - Techela in 2017, & Co-Head of Operations, Techela in 2016.
 
 ## Academic Projects
+### Web Scraping Project from Cars & Bids
+- Extracted 18 features for 107 cars from [Cars & Bids website](htts://carsandbids.com) like Make, Model, Mileage, Highest Bid Price etc.
+- Used prior HTML knowledge along with logical & problem solving skills in Python and Beautiful Soup for extracting key information.
+
+![Data Extraction from HTML elements](/assets/img/Data_Extraction.png)
+![Extracted Dataset in Excel](/assets/img/Cars_Dataset_Excel.png)
+
 ### [Machine Learning Project: Predicting Late Delivery Risk in Supply Chain Management](https://github.com/rkaushick-neu/info6105-data_science/blob/main/FinalProject/RishabhLK_FinalProjectReport_PDF.pdf)
 - Experimented with multiple supervised learning models to predict if a shipment has a risk of late delivery.
 - Performed significant data engineering tasks like pre-processing on a dataset containing around 9,000,000 data points.
