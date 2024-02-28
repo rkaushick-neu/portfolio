@@ -1,4 +1,4 @@
-# Aspiring Data Scientist
+# Data Scientist + Software Engineer
 #### Technical Skills: Python, SQL, PL/SQL, Java
 
 ## Education
@@ -14,7 +14,7 @@
 
 ## Academic Projects
 ### Web Scraping Project from Cars & Bids
-- Extracted 18 features for 107 cars from [Cars & Bids website](htts://carsandbids.com) like Make, Model, Mileage, Highest Bid Price etc.
+- Extracted 18 features for 107 cars from [Cars & Bids website](https://carsandbids.com/) like Make, Model, Mileage, Highest Bid Price etc.
 - Used prior HTML knowledge along with logical & problem solving skills in Python and Beautiful Soup for extracting key information.
 
 ![Data Extraction from HTML elements](/assets/img/Data_Extraction.png)
