@@ -13,8 +13,8 @@
 - Extra curriculars: Head of Editorial Board for Annual Tech Fest - Techela in 2017, & Co-Head of Operations, Techela in 2016.
 
 ## Academic Projects
-### Forecasting Apple Stock using Classical Machine Learning & Deep Learning Approaches
-- Worked on a regression problem with a time-series dataset of the S&P 500 stocks.
+### [Forecasting Apple Stock using Classical Machine Learning & Deep Learning Approaches](https://github.com/rkaushick-neu/stock-forecasting-ml-dl/tree/main)
+- Worked on a regression problem with a time-series [dataset](https://huggingface.co/datasets/edarchimbaud/timeseries-1d-stocks) of the S&P 500 stocks.
 - Compared different classical models like Random Forest & XGBoost Regressors along with deep learning Long-Term-Short-Term (LSTM) Recurrant Neural Networks.
 - Used metrics such as Root Mean Squared Error (RMSE) and the R Squared score to evaluate each model.
 
@@ -29,12 +29,12 @@
 ![Data Extraction from HTML elements](/assets/img/Data_Extraction.png)
 ![Extracted Dataset in Excel](/assets/img/Cars_Dataset_Excel.png)
 
-### [Machine Learning Project: Predicting Late Delivery Risk in Supply Chain Management](https://github.com/rkaushick-neu/info6105-data_science/blob/main/FinalProject/RishabhLK_FinalProjectReport_PDF.pdf)
+### [Machine Learning Project: Predicting Late Delivery Risk in Supply Chain Management](https://github.com/rkaushick-neu/machine-learning-scm)
 - Experimented with multiple supervised learning models to predict if a shipment has a risk of late delivery.
 - Performed significant data engineering tasks like pre-processing on a dataset containing around 9,000,000 data points.
 - Extracted top 15 most important features & trained a new model on it resulting in an accuracy score of 97%.
 - Performed hyper-parameter tuning using Randomized Search CV
-- Find the presentation to this project on YouTube:
+- Find the presentation to this project on YouTube by clicking the image below:
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=CKOrAf_WpLw
 " target="_blank"><img src="http://img.youtube.com/vi/CKOrAf_WpLw/0.jpg" 
