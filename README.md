@@ -36,9 +36,7 @@
 - Performed hyper-parameter tuning using Randomized Search CV
 - Find the presentation to this project on YouTube by clicking the image below:
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=CKOrAf_WpLw
-" target="_blank"><img src="http://img.youtube.com/vi/CKOrAf_WpLw/0.jpg" 
-alt="Data Science Project Presentation" width="400" height="300" border="3" /></a>
+[![Machine Learning Project in SCM](/assets/img/ML_SCM_Img.png)](https://www.youtube.com/watch?v=CKOrAf_WpLw)
 
 ### Data Science Project: Classifying Whether a Near Earth Object (NEO) Is Potentially Hazardous
 - Benchmarked various supervised learning appraoches using decision tree-based & neighborhood-based models.
