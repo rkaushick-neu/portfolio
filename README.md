@@ -13,6 +13,20 @@
 - Extra curriculars: Head of Editorial Board for Annual Tech Fest - Techela in 2017, & Co-Head of Operations, Techela in 2016.
 
 ## Academic Projects
+### NLP Project on Multi-Label Text Classification of English Quotes ([Link](https://github.com/rkaushick-neu/nlp-quotes))
+- Used [dataset](https://huggingface.co/datasets/Abirate/english_quotes) from Hugging Face as a basis for multi-label text classification.
+- Performed tokenization, lemmatization, stemming and stop word removal as a means of data cleaning
+- Handled imbalanced class distribution by under-sampling the data (see image below).
+- Used Term Frequency - Inverse Document Frequency (TF-IDF) for vectorization.
+- Trained baseline Naïve Bayes Classifiers along with an LSTM recurrant neural network.
+- Evaluated the models using metrics in the classification report like precision, recall and f1-score.
+
+(Projcet W.I.P. to improve on the existing models. Check back here soon!!)
+
+![!Image Handling Class Imbalance](/assets/img/NLP_Class_Imbalance.png)
+![Word Cloud](/assets/img/NLP_Word_Cloud.png)
+
+
 ### [Forecasting Apple Stock using Classical Machine Learning & Deep Learning Approaches](https://github.com/rkaushick-neu/stock-forecasting-ml-dl/tree/main)
 - Worked on a regression problem with a time-series [dataset](https://huggingface.co/datasets/edarchimbaud/timeseries-1d-stocks) of the S&P 500 stocks.
 - Compared different classical models like Random Forest & XGBoost Regressors along with deep learning Long-Term-Short-Term (LSTM) Recurrant Neural Networks.
@@ -34,6 +48,7 @@
 - Performed significant data engineering tasks like pre-processing on a dataset containing around 9,000,000 data points.
 - Extracted top 15 most important features & trained a new model on it resulting in an accuracy score of 97%.
 - Performed hyper-parameter tuning using Randomized Search CV
+- You can read about my key insights of this project on [LinkedIn](https://www.linkedin.com/posts/rishabh-kaushick_presentation-leveraging-data-science-to-activity-7153828039477403648-6PXl). 
 - Find the presentation to this project on YouTube by clicking the image below:
 
 [![Machine Learning Project in SCM](/assets/img/ML_SCM_Img.png)](https://www.youtube.com/watch?v=CKOrAf_WpLw)
