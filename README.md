@@ -1,5 +1,6 @@
 # Data Scientist + Software Engineer
 #### Technical Skills: Python, SQL, PL/SQL, Java
+#### Soft Skills: Communicator, Presenter, Team Player
 
 ## Education
 ### M.S., Information Systems (_Sep '23 to Apr '25_)
@@ -33,8 +34,7 @@
 - Used metrics such as Root Mean Squared Error (RMSE) and the R Squared score to evaluate each model.
 
 ![Stock Forecasting EDA](/assets/img/Stock_Forecasting_EDA.png)
-![Stock Forecasting Model Visualization](/assets/img/Stock_Forecasting_Result.png)
-![Stock Forecasting Model Evaluation Metrics](/assets/img/Stocks_Model_Evaluation.png)
+![Stock Forecast Models](/assets/img/Stock_Forecast_Models.png)
 
 ### Web Scraping Project from Cars & Bids ([Link](https://github.com/rkaushick-neu/web-scraping-cars/tree/main))
 - Extracted 18 features for 107 cars from [Cars & Bids website](https://carsandbids.com/) like Make, Model, Mileage, Highest Bid Price etc.
