@@ -33,8 +33,9 @@
 - Compared different classical models like Random Forest & XGBoost Regressors along with deep learning Long-Term-Short-Term (LSTM) Recurrant Neural Networks.
 - Used metrics such as Root Mean Squared Error (RMSE) and the R Squared score to evaluate each model.
 
-![Stock Forecasting EDA](/assets/img/Stock_Forecasting_EDA.png)
-![Stock Forecast Models](/assets/img/Stock_Forecast_Models.png)
+![Random Forest Model Graph](/assets/img/random_forest_model.png)
+![XGBoost Model Graph](/assets/img/xgb_model.png)
+![LSTM Model Graph](/assets/img/lstm_model.png)
 
 ### Web Scraping Project from Cars & Bids ([Link](https://github.com/rkaushick-neu/web-scraping-cars/tree/main))
 - Extracted 18 features for 107 cars from [Cars & Bids website](https://carsandbids.com/) like Make, Model, Mileage, Highest Bid Price etc.
