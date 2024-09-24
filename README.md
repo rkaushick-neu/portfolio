@@ -3,20 +3,33 @@
 #### Soft Skills: Communicator, Presenter, Team Player
 
 ## Education
-### M.S., Information Systems (_Sep '23 to Apr '25_)
-#### Northeastern University, Toronto, ON; _GPA: 4.0_
-- Relevant courses: Data Science Engineering Tools & Methods; Advanced Data Science Architecture; Data Management & Database Design.
+### M.Sc., Information Systems (_Sep '23 to Apr '25_)
+#### Northeastern University, Toronto, ON; _CGPA: 3.94/ 4.00_
+- Relevant courses: Advances in Data Science Architecture; Data Management & Database Design, Engineering of Big Data Systems.
 - Received an honorary mention at the Walmart Hackathon for effective story telling with data.
+##### Extra Curriculars 
+- Founding Organizer, [Google Developer Groups (GDG) on Campus: Northeastern University, Toronto](https://gdg.community.dev/gdg-on-campus-northeastern-university-toronto-toronto-canada/)
+- President, [Northeastern University Coding Society](https://www.linkedin.com/company/northeastern-university-coding-society/) (NUCS)
 
 ### B.Tech., Computer Science & Engineering (_Jul '15 to May '19_)
 #### Symbiosis International University, Pune, India 
 - Relevant courses: Artificial Intelligence (AI), Cloud Computing, Applied Mathematics, Design & Analysis of Algorithms, Data Structures.
-- Extra curriculars: Head of Editorial Board for Annual Tech Fest - Techela in 2017, & Co-Head of Operations, Techela in 2016.
+##### Extra Curriculars: 
+- Head of Editorial Board for Annual Tech Fest - Techela in 2017
+- Co-Head of Operations, Techela in 2016
 
 ## Academic Projects
+
+### Novel-ty: A Novel Book Recommender System
+This project uses content-based and collaborative filtering apporach to recommend similar books to users based on which books they like.
+#### Content Based Filtering Approach
+- Wrote modularized functions in Python & BeautifulSoup to perform Web Scraping of 1,000+ books data from Goodreads.
+- Found the impact of CountVectorizer, TF-IDF Vectorizer & Doc2Vec model on Cosine Similarity Score:
+![Novel-ty Cosine Similarity Scores](/assets/img/novel-ty_results.png)
+
 ### NLP Project on Multi-Label Text Classification of English Quotes ([Link](https://github.com/rkaushick-neu/nlp-quotes))
 - Used [dataset](https://huggingface.co/datasets/Abirate/english_quotes) from Hugging Face as a basis for multi-label text classification.
-- Performed tokenization, lemmatization, stemming and stop word removal as a means of data cleaning
+- Performed tokenization, lemmatization, stemming and stop word removal as a means of data cleaning.
 - Handled imbalanced class distribution by under-sampling the data (see image below).
 - Used Term Frequency - Inverse Document Frequency (TF-IDF) for vectorization.
 - Trained baseline Naïve Bayes Classifiers along with an LSTM recurrant neural network.
