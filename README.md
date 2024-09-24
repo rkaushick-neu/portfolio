@@ -7,6 +7,7 @@
 #### Northeastern University, Toronto, ON; _CGPA: 3.94/ 4.00_
 - Relevant courses: Advances in Data Science Architecture; Data Management & Database Design, Engineering of Big Data Systems.
 - Received an honorary mention at the Walmart Hackathon for effective story telling with data.
+
 ##### Extra Curriculars 
 - Founding Organizer, [Google Developer Groups (GDG) on Campus: Northeastern University, Toronto](https://gdg.community.dev/gdg-on-campus-northeastern-university-toronto-toronto-canada/)
 - President, [Northeastern University Coding Society](https://www.linkedin.com/company/northeastern-university-coding-society/) (NUCS)
@@ -14,6 +15,7 @@
 ### B.Tech., Computer Science & Engineering (_Jul '15 to May '19_)
 #### Symbiosis International University, Pune, India 
 - Relevant courses: Artificial Intelligence (AI), Cloud Computing, Applied Mathematics, Design & Analysis of Algorithms, Data Structures.
+
 ##### Extra Curriculars: 
 - Head of Editorial Board for Annual Tech Fest - Techela in 2017
 - Co-Head of Operations, Techela in 2016
