@@ -11,6 +11,7 @@
 ##### Extra Curriculars 
 - Founding Organizer, [Google Developer Groups (GDG) on Campus: Northeastern University, Toronto](https://gdg.community.dev/gdg-on-campus-northeastern-university-toronto-toronto-canada/)
 - President, [Northeastern University Coding Society](https://www.linkedin.com/company/northeastern-university-coding-society/) (NUCS)
+![NUCS Event](/assets/img/Rish_NUCS_Event.jpeg)
 
 ### B.Tech., Computer Science & Engineering (_Jul '15 to May '19_)
 #### Symbiosis International University, Pune, India 
