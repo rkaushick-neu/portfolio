@@ -2,6 +2,33 @@
 #### Technical Skills: Python, SQL, PL/SQL, Java
 #### Soft Skills: Communicator, Presenter, Team Player
 
+## Work Experience
+
+### Graduate Teaching Assistant (_Sep '24 to Present_)
+- Facilitated hands-on labs on <b>Java Swing</b>, <b>Dockers</b> and <b>SQL</b> helping 30 students design and implement object-oriented applications to solve real-world problems.
+- Hosted weekly office hours to provide personalized guidance, addressing students with their queries and preparing to independenly build their own projects.
+
+### Graduate Research Assistant (_Jun '24 to Present_)
+- Helped design and conduct interactive workshops on AI & Online Safety to VentureKids, Canada, benefitting 30+ middle and high school students. 
+- Read more about it [here](https://www.linkedin.com/posts/rishabh-kaushick_youthintech-aiforgood-cybersafety-activity-7232831532250415104-Cr_N).
+
+### Oracle Apps-Tech Consultant (_Jul '19 to Aug '23_)
+#### [Hitachi Vantara](https://www.hitachivantara.com/en-us/company.html)
+- Collaborated with functional consultants to gather requirements, design & develop 15+ Oracle BIP Reports.
+- Executed data conversion & migration from Oracle E-Business Suite to Oracle Cloud with success rate > 80%.
+- Analyzed, resolved, & articulated findings for 500+ customer tickets while strongly adhering to the SLA & KPIs.
+- Developed, tested, deployed & documented 10+ changes into production on Software AG - My webMethods.
+- Received the Hitachi Hi-Life Award in recognition of my contributions to company initiatives of data migration.
+
+  <img src="assets/img/Hitachi_HiLife_Cropped.png" alt="Hitachi Hi-Life Award" width="500"/>
+
+### Software Development Engineer Intern (_Jan '18 to Jun '18_)
+#### [Veritas Technologies LLC](https://www.veritas.com/en/ca/company)
+- Worked on an end-to-end software engineering POC project to scan, classify, and mask confidential PII data.
+- Designed modular Python code, RESTful APIs in flask, responsive user interface with AngularJS, and deployed the app with Dockers.
+- Improved masking speed of 500k records from 16 hours to 1 hour using Oracle Database Indexes & Threading in Python.
+- Demonstrated strong communication skills & presented the solution to the senior manager & developers.
+
 ## Education
 ### M.Sc., Information Systems (_Sep '23 to Apr '25_)
 #### Northeastern University, Toronto, ON; _CGPA: 3.94/ 4.00_
@@ -11,7 +38,10 @@
 ##### Extra Curriculars 
 - Founding Organizer, [Google Developer Groups (GDG) on Campus: Northeastern University, Toronto](https://gdg.community.dev/gdg-on-campus-northeastern-university-toronto-toronto-canada/)
 - President, [Northeastern University Coding Society](https://www.linkedin.com/company/northeastern-university-coding-society/) (NUCS)
-![NUCS Event](/assets/img/Rish_NUCS_Event.jpeg)
+  
+  <img src="assets/img/Rish_NUCS_Event.jpeg" alt="NUCS Event" width="300"/>
+
+
 
 ### B.Tech., Computer Science & Engineering (_Jul '15 to May '19_)
 #### Symbiosis International University, Pune, India 
@@ -23,10 +53,10 @@
 
 ## Academic Projects
 
-### Novel-ty: A Novel Book Recommender System
-This project uses content-based and collaborative filtering apporach to recommend similar books to users based on which books they like.
+### BookVerse: A Novel Recommendation System
+An end-to-end project that uses content-based and collaborative filtering apporach to recommend similar books to users.
 #### Content Based Filtering Approach
-- Wrote modularized functions in Python & BeautifulSoup to perform Web Scraping of 1,000+ books data from Goodreads.
+- Wrote modularized functions in Python & BeautifulSoup to perform ethical Web Scraping of 1,000+ books data from Goodreads.
 - Found the impact of CountVectorizer, TF-IDF Vectorizer & Doc2Vec model on Cosine Similarity Score:
 ![Novel-ty Cosine Similarity Scores](/assets/img/novel-ty_results.png)
 
@@ -81,23 +111,3 @@ This project uses content-based and collaborative filtering apporach to recommen
 - The above data augmentation improved the accuracy of the model from 65% to 80%.
 - The insights from this project were used in the research paper publication: [‘Predicting markers for Parkinson’s
 Disease using Deep Neural Nets on neuromelanin sensitive MRI’](https://www.sciencedirect.com/science/article/pii/S2213158219300981?via%3Dihub) in the NeuroImage: Clinical Journal.
-
-## Work Experience
-### Oracle Apps-Tech Consultant (_Jul '19 to Aug '23_)
-#### [Hitachi Vantara](https://www.hitachivantara.com/en-us/company.html)
-- Collaborated with functional consultants to gather requirements, design & develop 15+ Oracle BIP Reports.
-- Executed data conversion & migration from Oracle E-Business Suite to Oracle Cloud with success rate > 80%.
-- Analyzed, resolved, & articulated findings for 500+ customer tickets while strongly adhering to the SLA & KPIs.
-- Developed, tested, deployed & documented 10+ changes into production on Software AG - My webMethods.
-- Received the Hitachi Hi-Life Award in recognition of my contributions to company initiatives of data migration.
-
-![Hitachi Hi-Life Award](/assets/img/Hitachi_HiLife_Award.png)
-
-![Hitachi Service Anniversary](/assets/img/Hitachi_Service_Anniversary.png)
-
-### Software Development Engineer Intern (_Jan '18 to Jun '18_)
-#### [Veritas Technologies LLC](https://www.veritas.com/en/ca/company)
-- Worked on an end-to-end software engineering POC project to scan, classify, and mask confidential PII data.
-- Designed modular Python code, RESTful APIs in flask, responsive user interface with AngularJS, and deployed the app with Dockers.
-- Improved masking speed of 500k records from 16 hours to 1 hour using Oracle Database Indexes & Threading in Python.
-- Demonstrated strong communication skills & presented the solution to the senior manager & developers.
