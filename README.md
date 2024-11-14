@@ -53,7 +53,7 @@
 
 ## Academic Projects
 
-### BookVerse: A Novel Recommendation System
+### BookVerse: A Novel Recommendation System ([Link](https://github.com/rkaushick-neu/bookverse))
 An end-to-end project that uses content-based and collaborative filtering apporach to recommend similar books to users.
 #### Content Based Filtering Approach
 - Wrote modularized functions in Python & BeautifulSoup to perform ethical Web Scraping of 1,000+ books data from Goodreads.
